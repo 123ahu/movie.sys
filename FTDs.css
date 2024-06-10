@@ -1,0 +1,23 @@
+.main{
+    display:flex;
+}
+img{
+    height: 150px;
+    width: 250px;
+    padding-bottom: 10px;
+}
+.sub{
+    text-align: left;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.sub{
+    margin: 30px 50px 50px 10px;
+}
+
+body{
+    padding: 15px;
+    font-family: sans-serif;
+}
+img:hover{opacity: 0.6}

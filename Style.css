@@ -1,0 +1,25 @@
+h1{
+    color: crimson;
+    font-size: 60px;
+    font-style: oblique;
+    background-color: lightskyblue;
+    line-height: 70px;
+    text-align: center;
+    font-weight: bold;
+}
+h1:hover{background-color: cornflowerblue}
+
+
+p{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 35px;
+
+}
+
+img{
+    float: right;
+    width: 300px;
+    height: 200px;
+}

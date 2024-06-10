@@ -1,0 +1,13 @@
+#heading1 {
+    color: #b10827;
+}
+#heading2 {
+    text-decoration: underline;
+}
+.paragraph1 {
+    font-size: 19px;
+}
+.paragraph2 {
+    font-style: italic;
+    font-weight: bold;
+}
